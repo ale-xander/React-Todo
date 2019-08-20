@@ -8,3 +8,4 @@ const Todos = props => {
 
   return <ul> {todos} </ul>
 }
+export default Todos;
